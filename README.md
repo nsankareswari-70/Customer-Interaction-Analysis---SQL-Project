@@ -177,4 +177,7 @@ select * from interactions where created_at between '2025-09-05 12:00:00' and '2
 ``` sql
 -- Let's group the issues by tag and see which type of issues the Business has the most?
 
+select tag,count(*) as Count from interaction_tags group by tag;
+
+```
 
