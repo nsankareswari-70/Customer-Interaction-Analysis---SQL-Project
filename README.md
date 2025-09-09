@@ -113,4 +113,8 @@ INSERT INTO interaction_tags (interaction_id, tag) VALUES
 (8,'support'),(16,'support'),(24,'support'),(32,'support'),(40,'support'),(48,'support'),
 (10,'subscription'),(18,'subscription'),(26,'subscription'),(34,'subscription'),(42,'subscription'),(50,'subscription');
 ```
+```sql
+-- View all the customers and their Details
+select * from customers;
+
 
