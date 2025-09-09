@@ -175,5 +175,6 @@ select * from interactions where created_at between '2025-09-05 12:00:00' and '2
 ![img alt](https://github.com/nsankareswari-70/Customer-Interaction-Analysis---SQL-Project/blob/18606e623cc550d299562223e6a70dc6e95714cf/cia9.png)
 
 ``` sql
--- Let's group the issues by tag and see which type of issues the Business is having the most?
+-- Let's group the issues by tag and see which type of issues the Business has the most?
+
 
