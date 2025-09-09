@@ -126,5 +126,7 @@ select * from customers;
 
 ```sql
 -- Find whose telephone number is 555-222-3333
+```
+![img alt](https://github.com/nsankareswari-70/Customer-Interaction-Analysis---SQL-Project/blob/12ce4d7713a1b1036195154b363bac2582685358/Cia3.png)
 
 
