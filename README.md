@@ -129,4 +129,15 @@ select * from customers;
 ```
 ![img alt](https://github.com/nsankareswari-70/Customer-Interaction-Analysis---SQL-Project/blob/12ce4d7713a1b1036195154b363bac2582685358/Cia3.png)
 
+```sql
+-- Creating a view to split and store the customer Firstname and the lastname.
+create view customer_names as
+select 
+substring_index(name," ",1) as firstname,
+substring_index(name," ",-1) as lastname 
+from customers;
+
+select * from customer_names;
+```
+
 
