@@ -194,3 +194,9 @@ from interactions group by Date,sentiment;
 ```
 ![img alt](https://github.com/nsankareswari-70/Customer-Interaction-Analysis---SQL-Project/blob/5e69ca0b7c2a2b669111a944dcb8dba20ed2bed9/cia11.png)
 
+``` sql
+Let's see which channel is used most?
+select channel,count(*) as count from interactions group by channel;
+```
+
+
