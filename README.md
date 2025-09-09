@@ -139,5 +139,6 @@ from customers;
 
 select * from customer_names;
 ```
+![img alt](https://github.com/nsankareswari-70/Customer-Interaction-Analysis---SQL-Project/blob/8d30cf5b19cbb22c95e9c2e88ab7f42b11a177c9/cia4.png)
 
 
