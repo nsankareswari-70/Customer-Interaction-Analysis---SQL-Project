@@ -166,3 +166,5 @@ select * from interactions where sentiment='neutral';
 -- Let's get all the negative sentiments from the interactions
 select * from interactions where sentiment='negative';
 ```
+![img alt](https://github.com/nsankareswari-70/Customer-Interaction-Analysis---SQL-Project/blob/77b1ff61be19d8328fcd6d2888bb67fd6f6c3352/cia8.png)
+
