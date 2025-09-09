@@ -201,3 +201,4 @@ select channel,count(*) as count from interactions group by channel;
 
 ![img alt](https://github.com/nsankareswari-70/Customer-Interaction-Analysis---SQL-Project/blob/9ce7c355dbb882547b46a169f3048b9ed56ddb57/cia12.png)
 
+Chat is mostly used by the customers to communicate their issues.
