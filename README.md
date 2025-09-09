@@ -121,5 +121,7 @@ select * from customers;
 
 ```sql
 -- Get the details of the customer 'Ethan Brown'?
+```
+![img alt](https://github.com/nsankareswari-70/Customer-Interaction-Analysis---SQL-Project/blob/26ec58390257a77ba0b556f5bd1e174e5390e4b7/cia2.png)
 
 
