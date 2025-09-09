@@ -168,3 +168,7 @@ select * from interactions where sentiment='negative';
 ```
 ![img alt](https://github.com/nsankareswari-70/Customer-Interaction-Analysis---SQL-Project/blob/77b1ff61be19d8328fcd6d2888bb67fd6f6c3352/cia8.png)
 
+``` Sql
+-- Let's get all the interactions between the dates 2025-09-05 and 2025-09-10
+select * from interactions where created_at between '2025-09-05 12:00:00' and '2025-09-10 12:00:00';
+```
