@@ -212,4 +212,4 @@ c.customer_id=i.customer_id group by c.customer_id,name order by Interactions de
 
 ![img alt](https://github.com/nsankareswari-70/Customer-Interaction-Analysis---SQL-Project/blob/423dd980c72c6c7fe2fc5f4f86caf94fb6b39d9b/cia13.png)
 
-According to the date Alice and Bob.
+According to the data Alice and Bob.
