@@ -145,4 +145,5 @@ select * from customer_names;
 -- From the interactions table, I want to see all the positive reviews
 select * from interactions where sentiment='Positive';
 ```
+![img alt](https://github.com/nsankareswari-70/Customer-Interaction-Analysis---SQL-Project/blob/fa5e2a986597c7a510956ddd918ce308322583f7/cia5.png)
 
