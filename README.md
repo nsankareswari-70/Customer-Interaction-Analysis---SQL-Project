@@ -152,5 +152,7 @@ select * from interactions where sentiment='Positive';
 -- From the interactions table, I want to see all the positive reviews and channel is chat
 select * from interactions where sentiment='Positive' and channel='Chat';
 ```
+![img alt](https://github.com/nsankareswari-70/Customer-Interaction-Analysis---SQL-Project/blob/3c7596c6ab3d5c7de7dd674040cfdda9e8b96e04/cia6.png)
+
 
 
