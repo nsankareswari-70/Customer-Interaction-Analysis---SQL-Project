@@ -201,4 +201,13 @@ select channel,count(*) as count from interactions group by channel;
 
 ![img alt](https://github.com/nsankareswari-70/Customer-Interaction-Analysis---SQL-Project/blob/9ce7c355dbb882547b46a169f3048b9ed56ddb57/cia12.png)
 
-Chat is mostly used by the customers to communicate their issues.
+Chat is mostly used by customers to communicate their issues.
+
+```sql
+Which customer has the most interaction?
+select c.name,count(i.interaction_id) as Interactions from customers c join interactions i on
+c.customer_id=i.customer_id group by c.customer_id,name order by Interactions desc;
+
+```
+
+
