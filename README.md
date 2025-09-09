@@ -147,3 +147,10 @@ select * from interactions where sentiment='Positive';
 ```
 ![img alt](https://github.com/nsankareswari-70/Customer-Interaction-Analysis---SQL-Project/blob/fa5e2a986597c7a510956ddd918ce308322583f7/cia5.png)
 
+``` sql
+-- Let's do more filtering
+-- From the interactions table, I want to see all the positive reviews and channel is chat
+select * from interactions where sentiment='Positive' and channel='Chat';
+```
+
+
