@@ -214,4 +214,6 @@ c.customer_id=i.customer_id group by c.customer_id,name order by Interactions de
 
 According to the data Alice and Bob.
 
+Thank you. End of the Project
+
 
