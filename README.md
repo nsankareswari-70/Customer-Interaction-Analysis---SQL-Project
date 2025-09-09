@@ -181,4 +181,4 @@ select tag,count(*) as Count from interaction_tags group by tag;
 
 ```
 
-
+![img alt](https://github.com/nsankareswari-70/Customer-Interaction-Analysis---SQL-Project/blob/089afb9823bc0faf0cab202281b696b9adde7fa0/cia10.png)
