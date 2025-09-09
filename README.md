@@ -184,3 +184,12 @@ select tag,count(*) as Count from interaction_tags group by tag;
 ![img alt](https://github.com/nsankareswari-70/Customer-Interaction-Analysis---SQL-Project/blob/089afb9823bc0faf0cab202281b696b9adde7fa0/cia10.png)
 
 From the result we can tell login and order issues.
+
+```
+-- Let's see how many positive, negative, and neutral sentiments we have for each date?
+
+select date(created_at) as Date,sentiment,count(*) as count 
+from interactions group by Date,sentiment;
+
+```
+
