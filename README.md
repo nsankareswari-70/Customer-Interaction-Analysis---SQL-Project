@@ -116,5 +116,7 @@ INSERT INTO interaction_tags (interaction_id, tag) VALUES
 ```sql
 -- View all the customers and their Details
 select * from customers;
+```
+![img alt](https://github.com/nsankareswari-70/Customer-Interaction-Analysis---SQL-Project/blob/bb6c3fc8bc3cc8bae0dc16c0695608b0b1940cc1/cia1.png)
 
 
