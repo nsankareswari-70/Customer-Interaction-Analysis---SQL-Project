@@ -172,3 +172,4 @@ select * from interactions where sentiment='negative';
 -- Let's get all the interactions between the dates 2025-09-05 and 2025-09-10
 select * from interactions where created_at between '2025-09-05 12:00:00' and '2025-09-10 12:00:00';
 ```
+![img alt](https://github.com/nsankareswari-70/Customer-Interaction-Analysis---SQL-Project/blob/18606e623cc550d299562223e6a70dc6e95714cf/cia9.png)
